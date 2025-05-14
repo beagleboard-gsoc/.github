@@ -12,7 +12,7 @@ Spend your summer break writing code and learning about open source development 
 
 BeagleBoard.org is a volunteer organization that seeks to advance the state of open-source software on open-source hardware platforms capable of running high-level languages and operating systems (like Linux and Zephyr) in embedded environments. Born from taking mobile phone processors and putting them on low-cost boards to build affordable desktop computers, BeagleBoard.org has evolved to focus on the needs of the “maker” community with greater focus on the I/O needed for controlling motors and reading sensors to build things like robots, 3d printers, flying drones, in-car computer systems and much more. BeagleBoard has inspired creation of the Raspberry Pi, built over 6 million computers and made PocketBeagle available world-wide for about $25, but is more than a throw-away computer. It is an instance of true open hardware, exposing users to the broader world of electronics, demystifying computers and fostering an environment of clones that have changed the industry for good.
 
-Learn more at [beagleboard.org/about](https://www.beagleboard.org/about).
+Learn more about BeagleBoard.org at [beagleboard.org/about](https://www.beagleboard.org/about) and BeagleBoard.org GSoC at [gsoc.beagleboard.org](https://gsoc.beagleboard.org).
 
 <!--
 
